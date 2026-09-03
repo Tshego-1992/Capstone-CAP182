@@ -2,26 +2,19 @@
 
 ## Repository Structure
 
-### data
+### Datasets
 Contains raw and processed datasets.
-
-### models
-Contains trained machine learning models.
-
-### experiments
-Contains experiment configurations and experiment notes.
-
-### results
-Contains model evaluation results, metrics and comparison reports.
-
-### scripts
-Contains helper scripts, statistical tests and model comparison scripts.
-
-### visualisations
-Contains chart generation and dashboard scripts.
-
-### notebooks
-Contains Jupyter notebooks used during analysis and model development.
-
-### docs
+### Models
+Contains trained machine learning models
+### Experiments
+Contains experiment work and experiment notes.
+### Results
+Contains model evaluation results, metrics, comparison reports etc.
+### Visualisations
+Contains chart generation and other visual scripts.
+### Documents
 Contains assignment documents, reports and project documentation.
+#### Comparison scripts
+Scripts used to compare machine learning models and experiments.
+#### Statistical helper scripts
+Scripts used to perform statistical analysis such as distribution analysis or hypothesis testing
