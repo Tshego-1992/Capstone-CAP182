@@ -1,4 +1,4 @@
-# Capstone data science roject
+# Capstone data science project
 
 ## Repository Structure
 
