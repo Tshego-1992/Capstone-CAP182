@@ -3,26 +3,24 @@
 ## 1. Repository Structure
 
 ### Datasets
-Contains raw and processed datasets.
+This folder contains raw and processed datasets
 ### Models
 Contains trained machine learning models
 ### Experiments
-Contains experiment work and experiment notes.
+Contains experiment work and experiment notes
 ### Results
-Contains model evaluation results, metrics, comparison reports etc.
+Contains model evaluation results, metrics, comparison reports and other results
 ### Visualisations
-Contains charts generated and other visual scripts.
+Charts generated and other visual scripts
 ### Documents
-Contains assignment documents, reports and project documentation.
-### Comparison scripts
-Scripts used to compare machine learning models and experiments.
+This folder contains assignment documents, reports and project documentation
 ### Statistical helper scripts
 Scripts used to perform statistical analysis such as distribution analysis or hypothesis testing
 
 ## 2. Motivation - PartA
-The industry of private health care operates in an environment that constantly challenging and healthcare institutions must balance quality patient care with financial stability long term. STADIOcare generates and stores large volumes of operational, clinical, financial, and workforce data through systems that handle admissions, billing imaging, dispatch and human resources. However, the hospital struggles to convert this information into actionable insights that can support effective decision making.
+The industry of private health care operates in an environment that is constantly challenging and healthcare institutions must balance quality patient care with financial stability long term. STADIOcare generates and stores large volumes of operational, clinical, financial, and workforce data through systems that handle admissions, billing imaging, dispatch and human resources. However the hospital struggles to convert this information into actionable insights that can support effective decision making.
 
-According to the client briefing document, STADIOcare is currently experiencing a few significant challenges. Firstly, margin compression continues to put pressure on profitability as operational costs increase faster than tariffs. This means that the hospital must improve efficiency and resource utilisation rather than relying on price increases to maintain financial performance. Secondly, the organisation faces a nursing shortage seen through the increasing labour costs, staff burnout, staff loss, and inefficient manual rostering processes. In addition, the hospital treats an older and very sick patient population whose chronic conditions contribute to longer hospital stays and higher rates of readmission after they are discharged.
+According to the client briefing document, STADIOcare is currently experiencing a few significant challenges. Firstly, there's pressure on profitability as operational costs increase faster than tariffs. This means that the hospital must improve efficiency and how they use resources rather than relying on price increases to maintain financial performance. Secondly, the hospital faces a nursing shortage seen through the increasing labour costs, staff burnout, staff loss, and inefficient manual rostering processes. In addition, the hospital treats an older and very sick patient population whose chronic conditions contribute to longer hospital stays and higher rates of readmission after they are discharged.
 
 The hospital is also experiencing increased scrutiny from medical schemes that monitor billing activities. Unusual billing patterns can trigger costly audits and investigations which creates additional financial and compliance risks. Another concern is that the hospital's information is kept across several independent systems that were not designed to work together which makes it difficult to obtain a comprehensive view of operations and identify trends that could support strategic decisions.
 
