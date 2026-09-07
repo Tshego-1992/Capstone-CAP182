@@ -4,18 +4,19 @@
 
 ### Datasets
 This folder contains raw and processed datasets
-### Models
-Contains trained machine learning models
-### Experiments
-Contains experiment work and experiment notes
-### Results
-Contains model evaluation results, metrics, comparison reports and other results
-### Visualisations
-Charts generated and other visual scripts
 ### Documents
 This folder contains assignment documents, reports and project documentation
+### Experiments
+Contains experiment work and experiment notes
+### Models
+Contains trained machine learning models
+### Results
+Contains model evaluation results, metrics, comparison reports and other results
 ### Statistical helper scripts
 Scripts used to perform statistical analysis such as distribution analysis or hypothesis testing
+### Visualisations
+Charts generated and other visual scripts
+
 
 ## 2. Motivation - PartA
 The industry of private health care operates in an environment that is constantly challenging and healthcare institutions must balance quality patient care with financial stability long term. STADIOcare generates and stores large volumes of operational, clinical, financial, and workforce data through systems that handle admissions, billing imaging, dispatch and human resources. However the hospital struggles to convert this information into actionable insights that can support effective decision making.
