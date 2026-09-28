@@ -13,17 +13,18 @@
   ─ Model2Performance.MD  
   ─ Comparison.MD
 ### Experiments
-
+  ─ (alternative data source for rebuilding project)
 ### Notebooks
   ─ preprocessing.ipynb  
   ─ feature_engineering.ipynb  
   ─ model1_logistic_regression.ipynb  
   ─ model2_random_forest.ipynb  
   ─ model_performance_comparison.ipynb  
-
+### Reports
+  ─ CAP182 SS2 PartA
+  ─ CAP182 SS2 PartD
 ### Results
   ─ model_comparison.xls 
-
 ### Visualisations
   ─ model_comparison_chart.png 
   ─ confusion_matrix_model1.png
