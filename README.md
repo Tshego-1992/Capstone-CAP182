@@ -36,8 +36,7 @@
 
 ## 2. Problem statement - PartB
 
-The purpose of this project is to build a predictive machine learning model to identify patients at high risk of readmission using STADIOcare's admission and clinical data. This will support proactive patient management and reduce healthcare pressures.
-Even though there is available data across admissions, billing, scheduling, imaging, dispatch, and human resource systems, STADIOcare continues to experience operational inefficiencies, increasing staffing pressures, rising patient readmission rates, and growing financial scrutiny from medical schemes. 
+The purpose of this project is to build a predictive machine learning model to predict whether a patient would be readmitted within 30 days of discharge. This will support proactive patient management and reduce healthcare pressures since STADIOcare has been experiencing operational inefficiencies, increasing staffing pressures, rising patient readmission rates, and growing financial scrutiny from medical schemes. 
 
 ## 3. Motivation - PartA
 The industry of private health care operates in an environment that is constantly challenging and healthcare institutions must balance quality patient care with financial stability long term. STADIOcare generates and stores large volumes of operational, clinical, financial, and workforce data through systems that handle admissions, billing imaging, dispatch and human resources. However the hospital struggles to convert this information into actionable insights that can support effective decision making.
