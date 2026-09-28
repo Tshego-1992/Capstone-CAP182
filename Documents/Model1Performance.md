@@ -1,20 +1,11 @@
 ## Model 1 Performance
 
-## Related Notebook
-`03_model1_logistic_regression.ipynb`
+model1_logistic_regression.ipynb
 
 ## Model
 Logistic Regression
 
-## Performance Metrics
 
-| Metric | Value |
-|----------|----------|
-| Accuracy | X |
-| Precision | X |
-| Recall | X |
-| F1 Score | X |
-| ROC-AUC | X |
 
 ## Statistical Measures
 - Accuracy
@@ -28,4 +19,4 @@ Logistic Regression
 - model1_predictions.csv
 
 ## How to Run
-Run `03_model1_logistic_regression.ipynb`.
+Run model1_logistic_regression.ipynb
