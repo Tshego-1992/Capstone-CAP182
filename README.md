@@ -21,8 +21,8 @@
   ─ model2_random_forest.ipynb  
   ─ model_performance_comparison.ipynb  
 ### Reports
-  ─ CAP182 SS2 PartA  
-  ─ CAP182 SS2 PartD  
+  ─ CAP182 SS2 PartA (Literature review)  
+  ─ CAP182 SS2 PartD (Model recommendations)  
 ### Results
   ─ model_comparison.xls 
 ### Visualisations
