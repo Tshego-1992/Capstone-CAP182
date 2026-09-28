@@ -2,7 +2,7 @@
 
 ## Related Notebook
 
-**Notebook:** `01_preprocessing.ipynb`
+Notebook: preprocessing.ipynb
 
 This notebook performs all preprocessing tasks required before feature engineering and model development.
 
@@ -32,8 +32,8 @@ The purpose of preprocessing is to prepare the MIMIC-IV data for machine learnin
 
 ## Output File
 
-`admission_cohort.csv`
+admission_cohort.csv
 
 ## How to Run
 
-Run `01_preprocessing.ipynb`. The notebook creates `admission_cohort.csv`.
+Run preprocessing.ipynb. The notebook creates admission_cohort.csv
