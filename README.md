@@ -20,7 +20,12 @@
   ─ Comparison.MD
 ### Experiments
 
-### Models
+### Notebooks/Scripts
+  ─ 01_preprocessing.ipynb  
+  ─ 02_feature_engineering.ipynb  
+  ─ 03_model1_logistic_regression.ipynb  
+  ─ 04_model2_random_forest.ipynb  
+  ─ 05_model_performance_comparison.ipynb  
 
 ### Results
 
