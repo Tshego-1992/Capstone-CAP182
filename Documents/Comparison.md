@@ -1,9 +1,8 @@
-## Model Comparison
+## Model comparison
 
-## Related Notebook
-`05_model_performance_comparison.ipynb`
+model_performance_comparison.ipynb
 
-## Comparison Metrics
+## Comparison metrics
 
 | Metric | Logistic Regression | Random Forest |
 |----------|----------|----------|
@@ -13,14 +12,11 @@
 | F1 Score | X | X |
 | ROC-AUC | X | X |
 
-## Analysis
 Compare the two models using Accuracy, Precision, Recall, F1 Score and ROC-AUC.
 
-## Best Model
-X
 
-## Generated Files
+## Generated files
 - model_comparison.csv
 
-## How to Run
-Run `05_model_performance_comparison.ipynb` after notebooks 3 and 4.
+## How to run
+Run model_performance_comparison.ipynb after running the model1 performance notebook and model2 performance notebook
