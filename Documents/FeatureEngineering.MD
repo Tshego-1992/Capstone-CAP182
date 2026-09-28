@@ -2,7 +2,7 @@
 
 ## Related Notebook
 
-**Notebook:** `02_feature_engineering.ipynb`
+Notebook: feature_engineering.ipynb
 
 ## Purpose
 
@@ -10,7 +10,7 @@ The purpose of feature engineering is to create additional predictive variables 
 
 ## Input File
 
-`admission_cohort.csv`
+admission_cohort.csv
 
 ## Features Created
 
@@ -35,8 +35,8 @@ Unknown category replacement
 
 ## Output File
 
-`model_dataset.csv`
+model_dataset.csv
 
 ## How to Run
 
-Run `02_feature_engineering.ipynb`. The notebook creates `model_dataset.csv`.
+Run feature_engineering.ipynb. The notebook creates model_dataset.csv.
