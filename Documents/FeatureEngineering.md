@@ -1,18 +1,13 @@
 ## Feature Engineering
-
-## Related Notebook
-
 Notebook: feature_engineering.ipynb
 
 ## Purpose
-
 The purpose of feature engineering is to create additional predictive variables that improve readmission prediction performance.
 
-## Input File
-
+## Input file
 admission_cohort.csv
 
-## Features Created
+## Features created
 
 - prior_admissions
 - admission_month
@@ -25,18 +20,14 @@ admission_cohort.csv
 - high_severity
 - high_mortality_risk
 
-## Missing Value Handling
-
-### Numerical Features
+## Missing value handling
+## Numerical features
 Median imputation
-
-### Categorical Features
+## Categorical features
 Unknown category replacement
 
-## Output File
-
+## Output file
 model_dataset.csv
 
-## How to Run
-
+## How to run
 Run feature_engineering.ipynb. The notebook creates model_dataset.csv.
