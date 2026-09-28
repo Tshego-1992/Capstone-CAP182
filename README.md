@@ -3,19 +3,25 @@
 ## 1. Repository Structure
 
 ### Datasets
-This folder contains raw and processed datasets
+  ── patients.csv.gz
+  ── admissions.csv.gz
+  ── diagnoses_icd.csv.gz
+  ── procedures_icd.csv.gz
+  ── drgcodes.csv.gz
+  ── services.csv.gz
+  ── transfers.csv.gz
 ### Documents
-This folder contains assignment documents, reports and project documentation
+  ──
 ### Experiments
-Contains experiment work and experiment notes
+
 ### Models
-Contains trained machine learning models
+
 ### Results
-Contains model evaluation results, metrics, comparison reports and other results
+
 ### Statistical helper scripts
-Scripts used to perform statistical analysis such as distribution analysis or hypothesis testing
+
 ### Visualisations
-Charts generated and other visual scripts
+
 
 ## 2. Problem statement - PartB
 
