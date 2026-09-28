@@ -20,18 +20,20 @@
   ─ Comparison.MD
 ### Experiments
 
-### Notebooks/Scripts
-  ─ 01_preprocessing.ipynb  
-  ─ 02_feature_engineering.ipynb  
-  ─ 03_model1_logistic_regression.ipynb  
-  ─ 04_model2_random_forest.ipynb  
-  ─ 05_model_performance_comparison.ipynb  
+### Notebooks
+  ─ preprocessing.ipynb  
+  ─ feature_engineering.ipynb  
+  ─ model1_logistic_regression.ipynb  
+  ─ model2_random_forest.ipynb  
+  ─ model_performance_comparison.ipynb  
 
 ### Results
-
-### Statistical helper scripts
+  ─ model_comparison.xls 
 
 ### Visualisations
+  ─ model_comparison_chart.png 
+  ─ confusion_matrix_model1.png
+  ─ confusion_matrix_model2.png
 
 
 ## 2. Problem statement - PartB
