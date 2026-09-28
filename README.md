@@ -2,16 +2,22 @@
 
 ## 1. Repository Structure
 
-### Datasets
-  ── patients.csv.gz
-  ── admissions.csv.gz
-  ── diagnoses_icd.csv.gz
-  ── procedures_icd.csv.gz
-  ── drgcodes.csv.gz
-  ── services.csv.gz
-  ── transfers.csv.gz
+### Datasets  
+  ─ patients.csv.gz  
+  ─ admissions.csv.gz  
+  ─ diagnoses_icd.csv.gz  
+  ─ procedures_icd.csv.gz  
+  ─ drgcodes.csv.gz  
+  ─ services.csv.gz  
+  ─ transfers.csv.gz  
 ### Documents
-  ──
+  ─ Preprocessing.MD  
+  ─ FeatureEngineering.MD  
+  ─ Model1.MD  
+  ─ Model2.MD  
+  ─ Model1Performance.MD  
+  ─ Model2Performance.MD  
+  ─ Comparison.MD
 ### Experiments
 
 ### Models
