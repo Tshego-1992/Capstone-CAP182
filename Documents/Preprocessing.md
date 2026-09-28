@@ -1,17 +1,12 @@
-# Preprocessing
-
-## Related Notebook
+## Preprocessing
 
 Notebook: preprocessing.ipynb
-
 This notebook performs all preprocessing tasks required before feature engineering and model development.
 
 ## Purpose
-
 The purpose of preprocessing is to prepare the MIMIC-IV data for machine learning by loading, cleaning, transforming, and merging datasets into a single admission-level dataset.
 
 ## Input Files
-
 - patients.csv
 - admissions.csv
 - services.csv
@@ -19,7 +14,6 @@ The purpose of preprocessing is to prepare the MIMIC-IV data for machine learnin
 - transfers.csv
 
 ## Preprocessing Steps
-
 1. Load the datasets.
 2. Remove duplicate records.
 3. Convert admission and discharge timestamps to datetime format.
