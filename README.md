@@ -1,7 +1,6 @@
 # Capstone data science project
 
 ## 1. Repository Structure
-
 ### Datasets  
   ─ Dataset.MD   
 ### Documents
@@ -13,7 +12,7 @@
   ─ Model2Performance.MD  
   ─ Comparison.MD
 ### Experiments
-  ─ (alternative data source for rebuilding project)
+  ─ (alternative data source for rebuilding project)  
 ### Notebooks
   ─ preprocessing.ipynb  
   ─ feature_engineering.ipynb  
@@ -21,18 +20,16 @@
   ─ model2_random_forest.ipynb  
   ─ model_performance_comparison.ipynb  
 ### Reports
-  ─ CAP182 SS2 PartA
-  ─ CAP182 SS2 PartD
+  ─ CAP182 SS2 PartA  
+  ─ CAP182 SS2 PartD  
 ### Results
   ─ model_comparison.xls 
 ### Visualisations
-  ─ model_comparison_chart.png 
-  ─ confusion_matrix_model1.png
-  ─ confusion_matrix_model2.png
-
+  ─ model_comparison_chart.png   
+  ─ confusion_matrix_model1.png  
+  ─ confusion_matrix_model2.png  
 
 ## 2. Problem statement - PartB
-
 The purpose of this project is to build a predictive machine learning model to predict whether a patient would be readmitted within 30 days of discharge. This will support proactive patient management and reduce healthcare pressures since STADIOcare has been experiencing operational inefficiencies, increasing staffing pressures, rising patient readmission rates, and growing financial scrutiny from medical schemes. 
 
 ## 3. Motivation - PartA
