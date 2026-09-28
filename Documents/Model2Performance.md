@@ -1,20 +1,20 @@
-## Model 2 Performance
+## Model 2 performance
 
 model2_random_forest.ipynb
 
 ## Model
 Random Forest Classifier
 
-## Statistical Measures
+## Statistical measures
 - Accuracy
 - Precision
 - Recall
 - F1 Score
 - ROC-AUC
 
-## Generated Files
+## Generated files
 - model2_metrics.csv
 - model2_predictions.csv
 
-## How to Run
+## How to run
 Run model2_random_forest.ipynb
