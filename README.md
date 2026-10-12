@@ -21,11 +21,16 @@
   ─ model1_logistic_regression.ipynb  
   ─ model2_random_forest.ipynb  
   ─ model_performance_comparison.ipynb  
+  ─ statistical_analysis.ipynb   
 ### Reports
   ─ CAP182 SS2 PartA (Literature review)  
   ─ CAP182 SS2 PartD (Model recommendations)  
 ### Results
   ─ model_comparison.xls 
+### Statistical analysis  
+  ─ confusion_matrix_comparison.png
+  ─ roc_curve_comparison.png
+  ─ statistical_analysis_results.csv
 ### Visualisations
   ─ model_comparison_chart.png   
   ─ confusion_matrix_model1.png  
