@@ -1,8 +1,16 @@
-# Capstone data science project
+# STADIOcare Capstone data science project
 
 ## 1. Repository Structure
 ### Datasets  
-  ─ Dataset.MD   
+  ─ Dataset.MD (MIMIC IV public data)
+  ─ Dataset.MD (Client data)
+    - request1_admissions_discharge.csv
+    - request2_patient_demographics.csv
+    - request3_medical_history_clinical.csv
+    - request4_medication_treatment.csv
+    - request5_followup_outpatient.csv
+    - request6_claims_billing.csv
+    - request7_procedures.csv
 ### Documents
   ─ Preprocessing.MD  
   ─ FeatureEngineering.MD  
@@ -14,7 +22,7 @@
   ─ Requirements.txt  
   ─ STADIOcare data request  
 ### Experiments
-  ─ (alternative data source for rebuilding project)  
+  ─ (alternative public data source that can be used to rebuild the project)  
 ### Notebooks
   ─ preprocessing.ipynb  
   ─ feature_engineering.ipynb  
@@ -22,12 +30,14 @@
   ─ model2_random_forest.ipynb  
   ─ model_performance_comparison.ipynb  
   ─ statistical_analysis.ipynb   
+  ─ SS3_PartB.ipynb
 ### Reports
   ─ CAP182 SS2 PartA (Literature review)  
   ─ CAP182 SS2 PartD (Model recommendations)  
 ### Results
   ─ model_comparison.xls 
 ### Statistical analysis  
+  (analysis based on the data provided by the client)
   ─ confusion_matrix_comparison.png
   ─ roc_curve_comparison.png
   ─ statistical_analysis_results.csv
@@ -37,17 +47,17 @@
   ─ confusion_matrix_model2.png  
 
 ## 2. Problem statement - PartB
-The purpose of this project is to build a predictive machine learning model to predict whether a patient would be readmitted within 30 days of discharge. This will support proactive patient management and reduce healthcare pressures since STADIOcare has been experiencing operational inefficiencies, increasing staffing pressures, rising patient readmission rates, and growing financial scrutiny from medical schemes. 
+The aim of this project is to build a predictive machine learning model that will predict whether a patient would be readmitted within 30 days of discharge at STADIOcare hospital. This will support proactive patient management and reduce healthcare pressures since STADIOcare has been experiencing operational inefficiencies, increasing staffing pressures, rising patient readmission rates, and growing financial scrutiny from medical schemes. 
 
 ## 3. Motivation - PartA
 
-According to the client briefing document, STADIOcare is currently experiencing a few significant challenges. Firstly, there's pressure on profitability as operational costs increase faster than tariffs. This means that the hospital must improve efficiency and how they use resources rather than relying on price increases to maintain financial performance. Secondly, the hospital faces a nursing shortage seen through the increasing labour costs, staff burnout, staff loss, and inefficient manual rostering processes. In addition, the hospital treats an older and very sick patient population whose chronic conditions contribute to longer hospital stays and higher rates of readmission after they are discharged.
+STADIOcare is currently experiencing a few challenges. Firstly, there's pressure on profitability as operational costs increase faster than tariffs. This means that the hospital must improve efficiency and how they use resources rather than relying on price increases to maintain financial performance. Secondly, the hospital faces a nursing shortage seen through the increasing labour costs, staff burnout, staff loss, and inefficient manual rostering processes. In addition, the hospital treats an older and very sick patient population whose chronic conditions contribute to longer hospital stays and higher rates of readmission after they are discharged.
 
-Addressing these challenges is important because they directly affect hospital profitability, patient outcomes, employee wellbeing, and the sustainability of the hospital. Failing to respond effectively could result in higher operational costs, increased staff turnover, reduced patient satisfaction, and greater financial risk. The ability to identify patterns and trends within existing data could provide management with valuable insights to improve operational performance.
+Addressing these challenges is important because they directly affect hospital profitability, patient outcomes, employee wellbeing, and the sustainability of the hospital. If the hospital fails to respond effectively it could experience higher operational costs, increased staff turnover, reduced patient satisfaction, and greater financial risk. 
 
-Data science methods offer an opportunity to analyse large volumes of historical data to support decision making based on evidence. Predictive analytics can assist with forecasting patient demand, optimising nurse allocation, identifying patients at risk of readmission, and detecting unusual billing patterns that require further investigation. If we integrate information from the hospital’s multiple systems, then management can gain a more complete understanding of the hospital’s business performance and identify opportunities for improvement.
+A machine learning model can offer an opportunity to analyse the hospital's large volumes of historical data to support decision making based on evidence. Predictive analytics can assist with forecasting patient demand and optimising nurse allocations. 
 
-Therefore, this project aims to generate evidence that may support operational optimisation, improve resource allocation, enhance patient outcomes, and strengthen financial sustainability by applying data science techniques within the STADIOcare’s environment.
+Therefore, this project is valuable for generating evidence that can support operational optimisation, improve resource allocation, enhance patient outcomes, and strengthen financial sustainability by applying data science techniques within the STADIOcare’s environment.
 
 ## 4. RAAIDD Log - PartE
 
