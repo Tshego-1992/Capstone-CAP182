@@ -3,7 +3,7 @@
 ## 1. Repository Structure
 ### Datasets  
   ─ Dataset.MD (MIMIC IV public data)  
-  ─ Dataset.MD (Client data)  
+  ─ Client data:  
     - request1_admissions_discharge.csv  
     - request2_patient_demographics.csv  
     - request3_medical_history_clinical.csv  
