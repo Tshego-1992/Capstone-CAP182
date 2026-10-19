@@ -2,15 +2,15 @@
 
 ## 1. Repository Structure
 ### Datasets  
-  ─ Dataset.MD (MIMIC IV public data)
-  ─ Dataset.MD (Client data)
-    - request1_admissions_discharge.csv
-    - request2_patient_demographics.csv
-    - request3_medical_history_clinical.csv
-    - request4_medication_treatment.csv
-    - request5_followup_outpatient.csv
-    - request6_claims_billing.csv
-    - request7_procedures.csv
+  ─ Dataset.MD (MIMIC IV public data)  
+  ─ Dataset.MD (Client data)  
+    - request1_admissions_discharge.csv  
+    - request2_patient_demographics.csv  
+    - request3_medical_history_clinical.csv  
+    - request4_medication_treatment.csv  
+    - request5_followup_outpatient.csv  
+    - request6_claims_billing.csv  
+    - request7_procedures.csv  
 ### Documents
   ─ Preprocessing.MD  
   ─ FeatureEngineering.MD  
