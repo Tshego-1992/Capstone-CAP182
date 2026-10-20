@@ -35,15 +35,15 @@
   ─ CAP182 SS2 PartA (Literature review)  
   ─ CAP182 SS2 PartD (Model recommendations)  
 ### Results
-  ─ _model_performance_comparison 
-  ─ confusion_matrix_comparison.png  
-  ─ model1_predictions_logistic_regression.xls
-  ─ model2_predictions_random_forest.xls
+  ─ _model_performance_comparison.xlsx  
+  ─ confusion_matrix_comparison.png   
+  ─ model1_predictions_logistic_regression.xls  
+  ─ model2_predictions_random_forest.xls  
 ### Statistical analysis  
-  ─ _model_performance_comparison  
-  ─ confusion_matrix_comparison.png  
+  ─ model_performance_comparison   
+  ─ confidence_intervals.xlsx   
+  ─ _mcnemar_test_results.xlsx    
   ─ roc_curve_comparison.png  
-  ─ statistical_analysis_results.xlsx  
 ### Visualisations
   ─ model_comparison_chart.png   
   ─ confusion_matrix_model1.png  
