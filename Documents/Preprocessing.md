@@ -25,8 +25,10 @@ During target creation, two temporary variables were generated:
 next_admission
 days_to_next
 These variables contain future information and were used only to calculate the readmission target variable.
-After the target variable was created, these columns were removed from the modelling dataset because they would not be available at the point when a prediction is made and would introduce data leakage.  
-    7. Aggregate service information:  
+After the target variable was created, these columns were removed from the modelling dataset because they would not be available at the point when a prediction is made and would introduce data leakage.
+
+
+7. Aggregate service information:  
    The services dataset contained multiple service records per admission. These records were aggregated into:
 service_count
 primary_service
