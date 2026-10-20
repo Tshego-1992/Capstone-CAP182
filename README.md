@@ -35,9 +35,12 @@
   ─ CAP182 SS2 PartA (Literature review)  
   ─ CAP182 SS2 PartD (Model recommendations)  
 ### Results
-  ─ model_comparison.xls 
+  ─ _model_performance_comparison 
+  ─ confusion_matrix_comparison.png  
+  ─ model1_predictions_logistic_regression.xls
+  ─ model2_predictions_random_forest.xls
 ### Statistical analysis  
-  (analysis based on the data provided by the client)  
+  ─ _model_performance_comparison  
   ─ confusion_matrix_comparison.png  
   ─ roc_curve_comparison.png  
   ─ statistical_analysis_results.xlsx  
