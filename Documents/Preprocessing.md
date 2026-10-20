@@ -31,9 +31,9 @@ After the target variable was created, these columns were removed from the model
 service_count
 primary_service
 This allowed the model to use information about the number of clinical services involved in the patient's care as well as the primary service responsible for treatment.  
-  8. Aggregate DRG information.   
-  9. Aggregate transfer information.   
-  10. Merge all datasets into a single table.   
+8. Aggregate DRG information.   
+9. Aggregate transfer information.   
+ 10. Merge all datasets into a single table.   
 
 ## Output File
 
