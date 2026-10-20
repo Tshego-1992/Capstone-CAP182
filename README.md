@@ -40,7 +40,7 @@
   ─ model1_predictions_logistic_regression.xls  
   ─ model2_predictions_random_forest.xls  
 ### Statistical analysis  
-  ─ model_performance_comparison   
+  ─ model_performance_comparison.xlsx   
   ─ confidence_intervals.xlsx   
   ─ _mcnemar_test_results.xlsx    
   ─ roc_curve_comparison.png  
