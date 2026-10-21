@@ -46,9 +46,10 @@
   ─ _mcnemar_test_results.xlsx    
   ─ roc_curve_comparison.png  
 ### Visualisations
-  ─ model_comparison_chart.png   
+  ─ confusion_matrix_comparison.png   
   ─ confusion_matrix_model1.png  
   ─ confusion_matrix_model2.png  
+  ─ roc_curve_comparison.png   
 
 ## 2. Problem statement - PartB
 The aim of this project is to build a predictive machine learning model that will predict whether a patient would be readmitted within 30 days of discharge at STADIOcare hospital. This will support proactive patient management and reduce healthcare pressures since STADIOcare has been experiencing operational inefficiencies, increasing staffing pressures, rising patient readmission rates, and growing financial scrutiny from medical schemes. 
