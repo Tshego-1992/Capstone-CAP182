@@ -1,0 +1,147 @@
+Scheme_Name,Procedure_Code,Preauthorisation_Required,Maximum_Stay_Days,Special_Rules
+Discovery Health,FEM001,Yes,1,Pre-authorisation valid 30 days only
+Discovery Health,SPN001,Yes,11,Co-payment applies for non-network hospital
+Discovery Health,CABG01,No,9,Implant limit applies
+Discovery Health,CHOL01,Yes,5,Two-week waiting period after authorisation
+Discovery Health,GAS001,Yes,4,Co-payment applies for non-network hospital
+Discovery Health,DIAL01,No,2,Co-payment applies for non-network hospital
+Discovery Health,MRI001,Yes,4,Co-payment applies for non-network hospital
+Discovery Health,TRAN01,Yes,7,Implant limit applies
+Discovery Health,MAST01,Yes,3,Designated service provider required
+Discovery Health,CHEM01,Yes,2,No special rules
+Momentum Health,SPN001,Yes,5,Two-week waiting period after authorisation
+Momentum Health,CABG01,Yes,4,No special rules
+Momentum Health,CATH01,Yes,3,Co-payment applies for non-network hospital
+Momentum Health,CHOL01,Yes,2,No special rules
+Momentum Health,APP001,No,8,Managed care protocol applies
+Momentum Health,HRN001,Yes,8,Implant limit applies
+Momentum Health,DEL001,Yes,4,Managed care protocol applies
+Momentum Health,VENT01,Yes,1,Second opinion required
+Momentum Health,INTUB1,Yes,5,Two-week waiting period after authorisation
+Momentum Health,CHEM01,Yes,6,Co-payment applies for non-network hospital
+Bonitas,KNEE001,Yes,8,Designated service provider required
+Bonitas,HIP001,No,8,Second opinion required
+Bonitas,FEM001,Yes,7,Implant limit applies
+Bonitas,CABG01,Yes,2,Managed care protocol applies
+Bonitas,PCI001,Yes,7,Co-payment applies for non-network hospital
+Bonitas,PACE01,Yes,6,Pre-authorisation valid 30 days only
+Bonitas,CATH01,Yes,5,Co-payment applies for non-network hospital
+Bonitas,CHOL01,Yes,2,Managed care protocol applies
+Bonitas,HRN001,Yes,12,Designated service provider required
+Bonitas,COL001,Yes,6,No special rules
+Bonitas,CSEC01,Yes,5,Two-week waiting period after authorisation
+Bonitas,VENT01,Yes,2,No special rules
+Bonitas,CTC001,Yes,4,Co-payment applies for non-network hospital
+Medihelp,KNEE001,Yes,1,No special rules
+Medihelp,FEM001,Yes,4,Pre-authorisation valid 30 days only
+Medihelp,SPN001,Yes,5,Pre-authorisation valid 30 days only
+Medihelp,PCI001,Yes,4,Implant limit applies
+Medihelp,PACE01,Yes,5,No special rules
+Medihelp,HRN001,No,2,Implant limit applies
+Medihelp,COL001,Yes,2,Co-payment applies for non-network hospital
+Medihelp,CSEC01,Yes,2,Pre-authorisation valid 30 days only
+Medihelp,DEL001,Yes,5,Two-week waiting period after authorisation
+Medihelp,CTC001,Yes,5,No special rules
+Medihelp,MRI001,Yes,9,Co-payment applies for non-network hospital
+Medihelp,TRAN01,Yes,10,Managed care protocol applies
+Bestmed,FEM001,Yes,8,No special rules
+Bestmed,PCI001,Yes,5,Managed care protocol applies
+Bestmed,PACE01,Yes,7,Co-payment applies for non-network hospital
+Bestmed,HRN001,Yes,3,Two-week waiting period after authorisation
+Bestmed,GAS001,Yes,6,Implant limit applies
+Bestmed,CSEC01,Yes,6,Co-payment applies for non-network hospital
+Bestmed,DIAL01,Yes,7,No special rules
+Bestmed,CTC001,Yes,2,Second opinion required
+Bestmed,TRAN01,Yes,2,No special rules
+Fedhealth,SPN001,Yes,6,No special rules
+Fedhealth,PCI001,Yes,7,Designated service provider required
+Fedhealth,CHOL01,No,7,No special rules
+Fedhealth,HRN001,Yes,12,No special rules
+Fedhealth,COL001,Yes,4,Pre-authorisation valid 30 days only
+Fedhealth,GAS001,Yes,1,Two-week waiting period after authorisation
+Fedhealth,VENT01,Yes,4,No special rules
+Fedhealth,MRI001,Yes,3,Designated service provider required
+Fedhealth,MAST01,Yes,5,Managed care protocol applies
+GEMS,KNEE001,Yes,7,No special rules
+GEMS,SPN001,Yes,6,Second opinion required
+GEMS,PCI001,Yes,11,Implant limit applies
+GEMS,HRN001,Yes,1,Implant limit applies
+GEMS,DEL001,Yes,3,Designated service provider required
+GEMS,VENT01,Yes,5,No special rules
+GEMS,MRI001,Yes,8,Second opinion required
+GEMS,MAST01,No,4,Co-payment applies for non-network hospital
+GEMS,CHEM01,Yes,8,No special rules
+Polmed,KNEE001,Yes,8,Co-payment applies for non-network hospital
+Polmed,CATH01,No,4,Managed care protocol applies
+Polmed,CHOL01,Yes,1,Designated service provider required
+Polmed,APP001,Yes,8,Implant limit applies
+Polmed,HRN001,Yes,10,Designated service provider required
+Polmed,COL001,No,5,Pre-authorisation valid 30 days only
+Polmed,CSEC01,Yes,7,Managed care protocol applies
+Polmed,DEL001,Yes,11,Pre-authorisation valid 30 days only
+Polmed,DIAL01,Yes,3,Two-week waiting period after authorisation
+Polmed,CTC001,Yes,8,Pre-authorisation valid 30 days only
+Polmed,MRI001,No,8,Second opinion required
+Profmed,HIP001,Yes,6,Co-payment applies for non-network hospital
+Profmed,FEM001,Yes,1,Two-week waiting period after authorisation
+Profmed,PACE01,Yes,5,No special rules
+Profmed,CATH01,Yes,3,Designated service provider required
+Profmed,CHOL01,No,11,Two-week waiting period after authorisation
+Profmed,GAS001,Yes,1,Managed care protocol applies
+Profmed,CSEC01,Yes,2,Co-payment applies for non-network hospital
+Profmed,DEL001,Yes,11,Designated service provider required
+Profmed,DIAL01,No,1,Implant limit applies
+Profmed,VENT01,No,7,Co-payment applies for non-network hospital
+Profmed,MAST01,Yes,8,Designated service provider required
+Sizwe Hosmed,CABG01,Yes,7,Managed care protocol applies
+Sizwe Hosmed,APP001,Yes,11,Designated service provider required
+Sizwe Hosmed,VENT01,No,1,Managed care protocol applies
+Sizwe Hosmed,INTUB1,Yes,6,Pre-authorisation valid 30 days only
+Sizwe Hosmed,CTC001,Yes,3,No special rules
+Sizwe Hosmed,MRI001,No,2,Designated service provider required
+Keyhealth,SPN001,Yes,4,Implant limit applies
+Keyhealth,CABG01,Yes,6,Pre-authorisation valid 30 days only
+Keyhealth,PCI001,No,10,Managed care protocol applies
+Keyhealth,CATH01,Yes,10,Implant limit applies
+Keyhealth,GAS001,Yes,5,Managed care protocol applies
+Keyhealth,DEL001,Yes,3,Pre-authorisation valid 30 days only
+Keyhealth,DIAL01,Yes,6,Implant limit applies
+Keyhealth,VENT01,Yes,4,No special rules
+Keyhealth,CTC001,Yes,6,Co-payment applies for non-network hospital
+Keyhealth,MRI001,Yes,4,Co-payment applies for non-network hospital
+Keyhealth,CHEM01,Yes,3,Co-payment applies for non-network hospital
+Self-pay,KNEE001,Yes,5,Implant limit applies
+Self-pay,HIP001,No,6,Second opinion required
+Self-pay,FEM001,Yes,6,Pre-authorisation valid 30 days only
+Self-pay,CABG01,Yes,6,No special rules
+Self-pay,CHOL01,Yes,4,Managed care protocol applies
+Self-pay,GAS001,Yes,13,Implant limit applies
+Self-pay,DEL001,Yes,7,Implant limit applies
+Self-pay,VENT01,No,6,Designated service provider required
+Self-pay,TRAN01,Yes,4,Co-payment applies for non-network hospital
+Self-pay,MAST01,Yes,12,Designated service provider required
+Road Accident Fund,KNEE001,Yes,3,Designated service provider required
+Road Accident Fund,HIP001,No,3,No special rules
+Road Accident Fund,FEM001,Yes,5,Designated service provider required
+Road Accident Fund,SPN001,No,4,No special rules
+Road Accident Fund,PCI001,Yes,5,Implant limit applies
+Road Accident Fund,PACE01,Yes,8,Designated service provider required
+Road Accident Fund,CATH01,Yes,6,Second opinion required
+Road Accident Fund,APP001,No,5,Managed care protocol applies
+Road Accident Fund,GAS001,Yes,7,Designated service provider required
+Road Accident Fund,DEL001,Yes,8,Managed care protocol applies
+Road Accident Fund,VENT01,Yes,3,Co-payment applies for non-network hospital
+Road Accident Fund,INTUB1,Yes,6,Second opinion required
+Road Accident Fund,MRI001,Yes,4,No special rules
+Road Accident Fund,TRAN01,Yes,2,No special rules
+Road Accident Fund,CHEM01,Yes,5,Pre-authorisation valid 30 days only
+Workmen's Compensation,FEM001,No,6,Co-payment applies for non-network hospital
+Workmen's Compensation,PCI001,Yes,9,Managed care protocol applies
+Workmen's Compensation,PACE01,Yes,4,Managed care protocol applies
+Workmen's Compensation,CATH01,Yes,10,Co-payment applies for non-network hospital
+Workmen's Compensation,HRN001,Yes,8,Two-week waiting period after authorisation
+Workmen's Compensation,DEL001,Yes,5,Designated service provider required
+Workmen's Compensation,DIAL01,Yes,10,Co-payment applies for non-network hospital
+Workmen's Compensation,INTUB1,Yes,5,Second opinion required
+Workmen's Compensation,MRI001,Yes,4,Managed care protocol applies
+Workmen's Compensation,TRAN01,No,7,Implant limit applies
