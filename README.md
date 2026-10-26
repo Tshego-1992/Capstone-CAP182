@@ -34,7 +34,10 @@
   ─ SS3_PartB.ipynb
 ### Reports
   ─ CAP182 SS2 PartA (Literature review)  
+  [Click here to view the file](Reports/Tshegofatso_Mogomotsi_26304837_CAP182_SS2_PartA.pdf)  
+
   ─ CAP182 SS2 PartD (Model recommendations)  
+  [Click here to view the file](Reports/Tshegofatso_Mogomotsi_26304837_CAP182_SS2_PartD.pdf)   
 ### Results
   ─ _model_performance_comparison.xlsx  
   ─ confusion_matrix_comparison.png   
