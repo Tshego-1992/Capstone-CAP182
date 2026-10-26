@@ -37,7 +37,8 @@ SS3:
   ─ statistical_analysis.ipynb   
   ─ SS3_PartB.ipynb  
 ### Video 
-  ─ Link to the presentation video: https://stadiomultiversity-my.sharepoint.com/:f:/g/personal/26304837_stadio_ac_za/IgDs36_M24UmRoeF00lnDsEaAdLCVCNqmNVPdbgjrmZ0XJI?e=KNah6c  
+  ─ Link to the presentation video:
+  https://stadiomultiversity-my.sharepoint.com/:f:/r/personal/26304837_stadio_ac_za/Documents/CAP182_SS3_Presentation_video?d=wccafdfec85db46268785d349670ec11a&csf=1&web=1&e=lEfpKH
 ### Reports
   ─ CAP182 SS2 PartA (Literature review)  
   [Click here to view the file](Reports/Tshegofatso_Mogomotsi_26304837_CAP182_SS2_PartA.pdf)  
