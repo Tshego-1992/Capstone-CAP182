@@ -13,7 +13,7 @@
       - request6_claims_billing.csv  
       - request7_procedures.csv  
 ### Documents
-SS1 & SS2  
+SS1 & SS2:  
   ─ Preprocessing.MD  
   ─ FeatureEngineering.MD  
   ─ Model1.MD  
@@ -23,10 +23,10 @@ SS1 & SS2
   ─ Comparison.MD  
   ─ Requirements.txt  
   ─ STADIOcare data request  
-SS3  
+SS3:  
   ─ Client_dataset_SS3.md    
 ### Video 
-Link to the presentation video: https://stadiomultiversity-my.sharepoint.com/:f:/g/personal/26304837_stadio_ac_za/IgDs36_M24UmRoeF00lnDsEaAdLCVCNqmNVPdbgjrmZ0XJI?e=KNah6c  
+  ─Link to the presentation video: https://stadiomultiversity-my.sharepoint.com/:f:/g/personal/26304837_stadio_ac_za/IgDs36_M24UmRoeF00lnDsEaAdLCVCNqmNVPdbgjrmZ0XJI?e=KNah6c  
 ### Experiments
   ─ (alternative public data source that can be used to rebuild the project)  
 ### Notebooks
