@@ -8,3 +8,5 @@ Target Variable: 0 = Not Readmitted Within 30 Days, 1 = Readmitted Within 30 Day
 Dataset size, class distribution and class imbalance are analysed and printed in the DATASET LOADING component of the code
 
 The CSV files used to source the data are ideal for this machine learning model(logistic regression) because they provide a structured tabular format that can be easily loaded into Pandas dataFrames for preprocessing, feature engineering and modelling.
+
+The scheme rules file was intentionally excluded from the final modelling dataset because it had administrative and business rule information that described medical scheme coverage instead of information that is specific to patients and admissions. 
