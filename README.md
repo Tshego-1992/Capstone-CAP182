@@ -25,8 +25,7 @@ SS1 & SS2:
   ─ STADIOcare data request  
 SS3:  
   ─ Client_dataset_SS3.md    
-### Video 
-  ─ Link to the presentation video: https://stadiomultiversity-my.sharepoint.com/:f:/g/personal/26304837_stadio_ac_za/IgDs36_M24UmRoeF00lnDsEaAdLCVCNqmNVPdbgjrmZ0XJI?e=KNah6c  
+
 ### Experiments
   ─ (alternative public data source that can be used to rebuild the project)  
 ### Notebooks
@@ -36,7 +35,9 @@ SS3:
   ─ model2_random_forest.ipynb  
   ─ model_performance_comparison.ipynb  
   ─ statistical_analysis.ipynb   
-  ─ SS3_PartB.ipynb
+  ─ SS3_PartB.ipynb  
+### Video 
+  ─ Link to the presentation video: https://stadiomultiversity-my.sharepoint.com/:f:/g/personal/26304837_stadio_ac_za/IgDs36_M24UmRoeF00lnDsEaAdLCVCNqmNVPdbgjrmZ0XJI?e=KNah6c  
 ### Reports
   ─ CAP182 SS2 PartA (Literature review)  
   [Click here to view the file](Reports/Tshegofatso_Mogomotsi_26304837_CAP182_SS2_PartA.pdf)  
