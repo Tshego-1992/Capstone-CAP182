@@ -22,6 +22,8 @@
   ─ Comparison.MD  
   ─ Requirements.txt  
   ─ STADIOcare data request  
+### Video 
+Link to the presentation video: https://stadiomultiversity-my.sharepoint.com/:f:/g/personal/26304837_stadio_ac_za/IgDs36_M24UmRoeF00lnDsEaAdLCVCNqmNVPdbgjrmZ0XJI?e=KNah6c  
 ### Experiments
   ─ (alternative public data source that can be used to rebuild the project)  
 ### Notebooks
